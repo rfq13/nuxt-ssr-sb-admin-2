@@ -1,4 +1,4 @@
-# Nuxtjs Starter with SB Admin 2 template
+# SSR with Nuxtjs Starter with SB Admin 2 template
 
 ## Build Setup
 
